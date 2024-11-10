@@ -4,4 +4,5 @@ export const headerNavList = [
   "New Releases",
   "Today's Deals",
   "Custumer Service",
+  "aaaa",
 ];
