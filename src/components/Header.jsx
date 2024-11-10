@@ -11,12 +11,12 @@ const Header = () => {
         >
           <ul className="flex gap-[23px] ">
             {headerNavList.map((item, index) => (
-              <a
-                className="hover:text-red-500 duration-400  cursor-pointer  "
+              <l1
+                className="hover:text-orange-500 duration-400  cursor-pointer  "
                 key={index}
               >
                 {item}
-              </a>
+              </l1>
             ))}
           </ul>
         </nav>
