@@ -1,8 +1,9 @@
 import Header from "@/components/Header";
 import SearchBar from "@/components/SearchBar";
-import { FaAlignRight } from "react-icons/fa";
+import { GiHamburgerMenu } from "react-icons/gi";
 
 import Image from "next/image";
+import Button from "@/components/Button";
 
 export default function Home() {
   return (
@@ -17,8 +18,9 @@ export default function Home() {
             className=""
           />
 
-          <div className="flex pt-5">
-            <FaAlignRight size={40} color="white" />
+          <div className="flex pt-5 justify-between  items-center ">
+            <GiHamburgerMenu size={65} color="white" />
+            <Button text="ALL Category" />
             <SearchBar />
           </div>
         </div>
