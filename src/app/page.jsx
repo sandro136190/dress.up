@@ -20,7 +20,7 @@ export default function Home() {
 
           <div className="flex pt-5 justify-between  items-center ">
             <GiHamburgerMenu size={65} color="white" />
-            <Button text="ALL Category" />
+            <Button text="All Category" />
             <SearchBar />
           </div>
         </div>
