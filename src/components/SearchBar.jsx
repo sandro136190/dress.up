@@ -11,7 +11,7 @@ const SearchBar = () => {
           placeholder="Search here"
         />
       </div>
-      <div className="bg-orange-600 w-10 flex h-9 items-center justify-center rounded-r-md">
+      <div className="cursor-pointer bg-orange-600 w-10 flex h-9 items-center justify-center rounded-r-md">
         <IoSearchSharp color="white" size={19} />
       </div>
     </div>

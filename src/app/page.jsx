@@ -5,6 +5,8 @@ import { GiHamburgerMenu } from "react-icons/gi";
 import Image from "next/image";
 import Button from "@/components/Button";
 import Language from "@/components/Language";
+import Button2 from "@/components/Button2";
+import Button3 from "@/components/Button3";
 
 export default function Home() {
   return (
@@ -24,6 +26,8 @@ export default function Home() {
             <Button text="All Category" />
             <SearchBar />
             <Language />
+            <Button2 />
+            <Button3 />
           </div>
         </div>
       </div>

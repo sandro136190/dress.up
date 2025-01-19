@@ -2,18 +2,18 @@ import React from "react";
 
 const Language = () => {
   return (
-    <div className="relative border w-44 border-gray-300 text-gray-800 bg-white shadow-lg">
+    <div className=" cursor-pointer relative border w-44 border-gray-300 text-gray-800 bg-white shadow-lg">
       <select
-        className="appearance-none  w-full py-1 px-2 bg-white"
+        className=" cursor-pointer appearance-none  w-full py-1 px-2 bg-white"
         name="whatever"
         id="frm-whatever"
       >
         <option value="1">English</option>
-        <option value="2">German</option>
+        <option value="2"> German</option>
         <option value="3">Russian</option>
         <option value="4">Georgian</option>
       </select>
-      <div className="pointer-events-none absolute right-0 top-0 bottom-0 flex items-center px-2 text-gray-700 border-l">
+      <div className="cursor-pointer absolute right-0 top-0 bottom-0 flex items-center px-2 text-gray-700 border-l">
         <svg
           className="h-4 w-4"
           xmlns="http://www.w3.org/2000/svg"
