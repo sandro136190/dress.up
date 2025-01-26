@@ -3,10 +3,24 @@ import SearchBar from "@/components/SearchBar";
 import { GiHamburgerMenu } from "react-icons/gi";
 
 import Image from "next/image";
-import Button from "@/components/Button";
+import Button from "@/components/button/Button";
 import Language from "@/components/Language";
-import Button2 from "@/components/Button2";
-import Button3 from "@/components/Button3";
+import Button2 from "@/components/button/Button2";
+import Button3 from "@/components/button/Button3";
+import BuyNow from "@/components/button/BuyNow";
+import Electrics from "@/components/electronics/Electronics";
+import ElectronicsPage from "@/components/electronics/ElectronicsPage";
+import Page2 from "@/components/electronics/Page2";
+import Page3 from "@/components/electronics/Page3";
+import Fasion from "@/components/fasion/Fasion";
+import Page1 from "@/components/fasion/Page1.1";
+import Page4 from "@/components/fasion/Page2.1";
+import Page5 from "@/components/fasion/Page3.1";
+import Juwilery from "@/components/juvilery/juvilery";
+import Juwilery1 from "@/components/juvilery/jewellery1";
+import Juwilery2 from "@/components/juvilery/jewellery2";
+import Juwilery3 from "@/components/juvilery/jewellery3";
+import Footer from "@/components/footer";
 
 export default function Home() {
   return (
@@ -28,6 +42,20 @@ export default function Home() {
             <Language />
             <Button2 />
             <Button3 />
+            <BuyNow />
+            <Electrics />
+            <ElectronicsPage />
+            <Page2 />
+            <Page3 />
+            <Fasion />
+            <Page1 />
+            <Page4 />
+            <Page5 />
+            <Juwilery />
+            <Juwilery1 />
+            <Juwilery2 />
+            <Juwilery3 />
+            <Footer />
           </div>
         </div>
       </div>

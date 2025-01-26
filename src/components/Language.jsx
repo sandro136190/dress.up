@@ -12,6 +12,12 @@ const Language = () => {
         <option value="2"> German</option>
         <option value="3">Russian</option>
         <option value="4">Georgian</option>
+        <option value="5">French</option>
+        <option value="6">Italian</option>
+        <option value="7">Spain</option>
+        <option value="8">Portuguse</option>
+        <option value="9">Polish</option>
+        <option value="10">Japanese</option>
       </select>
       <div className="cursor-pointer absolute right-0 top-0 bottom-0 flex items-center px-2 text-gray-700 border-l">
         <svg
