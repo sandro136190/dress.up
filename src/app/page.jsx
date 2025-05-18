@@ -1,8 +1,6 @@
 import Header from "@/components/Header";
 import SearchBar from "@/components/SearchBar";
 import { GiHamburgerMenu } from "react-icons/gi";
-
-import Image from "next/image";
 import Button from "@/components/button/Button";
 import Language from "@/components/Language";
 import Button2 from "@/components/button/Button2";

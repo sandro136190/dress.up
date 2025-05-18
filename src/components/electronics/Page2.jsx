@@ -1,7 +1,7 @@
 const Page2 = () => {
   return (
     <div className="absolute top-[1000px] left-[600px] w-72 p-4 border rounded-2xl shadow-md bg-white">
-      <h2 className="text-lg font-semibold text-center">16ProMax</h2>
+      <h2 className="text-lg font-semibold text-center">Iphone 16 Pro Max</h2>
       <p className="text-center text-red-500 font-medium text-sm">
         Price $1900
       </p>

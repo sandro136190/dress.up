@@ -9,7 +9,7 @@ const Language = () => {
         id="frm-whatever"
       >
         <option value="1">English</option>
-        <option value="2"> German</option>
+        <option value="2">German</option>
         <option value="3">Russian</option>
         <option value="4">Georgian</option>
         <option value="5">French</option>
@@ -18,6 +18,28 @@ const Language = () => {
         <option value="8">Portuguse</option>
         <option value="9">Polish</option>
         <option value="10">Japanese</option>
+        <option value="11">Arabic </option>
+        <option value="12">Mandarin </option>
+        <option value="13">Chinese</option>
+        <option value="14">Hindi</option>
+        <option value="15">Bengali</option>
+        <option value="16">Turkish</option>
+        <option value="17">Vietnamese</option>
+        <option value="18">Persian</option>
+        <option value="19">Farsi</option>
+        <option value="20">Ukrainian</option>
+        <option value="21">Greek</option>
+        <option value="22">Romanian</option>
+        <option value="23">Filipino</option>
+        <option value="24">Dutch</option>
+        <option value="25">Urdu</option>
+        <option value="26">Swahili</option>
+        <option value="27">Thai</option>
+        <option value="28">Hebrew</option>
+        <option value="29">Kannada</option>
+        <option value="30">Serbian</option>
+        <option value="31">Indonesian</option>
+        <option value="31">Malayalam</option>
       </select>
       <div className="cursor-pointer absolute right-0 top-0 bottom-0 flex items-center px-2 text-gray-700 border-l">
         <svg

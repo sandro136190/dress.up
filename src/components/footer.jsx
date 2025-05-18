@@ -45,7 +45,7 @@ const Footer = () => {
           </ul>
         </nav>
 
-        <p className="mb-4">Help Line Number : +1 1800 1200 1200</p>
+        <p className="mb-4">Creator's number : +995 555 223 338 6</p>
 
         <p className="text-sm text-gray-400">
           &copy; 2020 All Rights Reserved. Design by Free HTML Templates

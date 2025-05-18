@@ -1,7 +1,9 @@
 const Page3 = () => {
   return (
     <div className="absolute top-[1000px] left-[1000px] w-72 p-4 border rounded-2xl shadow-md bg-white">
-      <h2 className="text-lg font-semibold text-center">GooglePixel9Pro</h2>
+      <h2 className="text-lg font-semibold text-center">
+        Google Pixel 9 Pro fold
+      </h2>
       <p className="text-center text-red-500 font-medium text-sm">
         Price $1500
       </p>

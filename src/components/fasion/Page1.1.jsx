@@ -1,7 +1,7 @@
 const Page1 = () => {
   return (
     <div className="absolute top-[1500px] left-[600px] w-72 p-4 border rounded-2xl shadow-md bg-white">
-      <h2 className="text-lg font-semibold text-center">FootballNike</h2>
+      <h2 className="text-lg font-semibold text-center">Football Nike</h2>
       <p className="text-center text-red-500 font-medium text-sm">Price $25</p>
       <div className="flex justify-center my-4">
         <img

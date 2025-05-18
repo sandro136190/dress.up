@@ -1,7 +1,7 @@
 const ProductCard = () => {
   return (
     <div className="absolute top-[1000px] left-30 w-72 p-4 border rounded-2xl shadow-md bg-white">
-      <h2 className="text-lg font-semibold text-center">s24</h2>
+      <h2 className="text-lg font-semibold text-center">Sumsung 24 ultra</h2>
       <p className="text-center text-red-500 font-medium text-sm">
         Price $1800
       </p>
